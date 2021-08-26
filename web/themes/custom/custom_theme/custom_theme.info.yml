@@ -1,0 +1,7 @@
+name: Costum theme
+type: theme
+description: Costum theme dari angga theme
+package: Other
+core: 8.x
+libraries: 
+- costum_theme/global-styling
